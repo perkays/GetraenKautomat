@@ -1,0 +1,12 @@
+C:\Users\Perkays\Desktop\getrank\getrank\bin\Debug\getrank.exe.config
+C:\Users\Perkays\Desktop\getrank\getrank\bin\Debug\getrank.exe
+C:\Users\Perkays\Desktop\getrank\getrank\bin\Debug\getrank.pdb
+C:\Users\Perkays\Desktop\getrank\getrank\obj\Debug\getrank.exe
+C:\Users\Perkays\Desktop\getrank\getrank\obj\Debug\getrank.pdb
+C:\Users\Perkays\Desktop\getrank\getrank\obj\Debug\getrank.csprojResolveAssemblyReference.cache
+D:\Getränkautomat letze version\getrank\bin\Debug\getrank.exe.config
+D:\Getränkautomat letze version\getrank\obj\Debug\getrank.exe
+D:\Getränkautomat letze version\getrank\obj\Debug\getrank.pdb
+D:\Getränkautomat letze version\getrank\bin\Debug\getrank.exe
+D:\Getränkautomat letze version\getrank\bin\Debug\getrank.pdb
+D:\Getränkautomat letze version\getrank\obj\Debug\getrank.csprojResolveAssemblyReference.cache
